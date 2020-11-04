@@ -4,7 +4,7 @@ import subprocess
 
 import requests
 
-IMAGE = 'wiwdata/presto'
+IMAGE = 'txn2/presto'
 VERSION_URL = 'https://api.github.com/repos/prestodb/presto/tags'
 
 
